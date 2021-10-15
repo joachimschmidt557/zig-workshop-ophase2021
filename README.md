@@ -7,3 +7,5 @@ orientation week for Computer Science at TU Darmstadt.
 
 - A LaTeX distribution (TeXLive recommended)
 - Pygments for code highlighting
+- `wget` and Inkscape for downloading and generating `zero.png` and
+  `zig-logo-dark.png`
